@@ -24,10 +24,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Dropout layer helped in fixing the overfitting in the model
+- Augmentor helped in balancing the imbalanced classes in the data, by increasing the samples of each class
+- The final model provides an 88% accuracy on the train dataset and 78% on the validation dataset
+- This model can provide a good estimate to the health experts when looking for the melanoma skin condition
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
